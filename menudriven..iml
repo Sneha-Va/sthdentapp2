@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../menudriven/out/production/menudriven/src" />
+    <output-test url="file://$MODULE_DIR$/../menudriven/out/test/menudriven/src/" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../menudriven">
+      <sourceFolder url="file://$MODULE_DIR$/../menudriven/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="github.livesense.liveSense.jdbc.mysql" level="project" />
+    <orderEntry type="library" name="github.livesense.liveSense.jdbc.mysql1" level="project" />
+    <orderEntry type="library" name="github.livesense.liveSense.jdbc.mysql2" level="project" />
+  </component>
+</module>
